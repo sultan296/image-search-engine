@@ -1,1 +1,3 @@
 # image-search-engine
+
+In this project, I demonstrate the creation of an image search engine using HTML, CSS, and JavaScript. The application features a sleek search bar where users can input keywords to retrieve images from Unsplash's free API. Users can see a dynamic display of images based on their search queries, with the option to load more results seamlessly. The design emphasizes user-friendliness with a clean interface, making it easy to search for and view stunning images. Throughout the process, I highlight the effective integration of the Unsplash API, demonstrating how to access and display copyright-free images, providing viewers with a valuable resource for their web development projects.
